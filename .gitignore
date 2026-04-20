@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.log
+/tmp/
+# Промежуточные артефакты сборки
+awesome_canbus_README.md
+parsed_entries.json
+enriched.json
