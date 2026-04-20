@@ -19,7 +19,7 @@
 ║                                                                              ║
 ║                                  v1.0-beta                                   ║
 ║                                                                              ║
-║                   Authors: Mikhail Kubalskiy (@QBe1n)                        ║
+║                   Authors: Kubalskiy (@QBe1n)                        ║
 ║                                                                              ║
 ║                                                                              ║
 ║                ⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀                          ║
